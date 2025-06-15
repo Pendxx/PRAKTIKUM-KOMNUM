@@ -10,7 +10,7 @@ double f(double x) {
 ```
 
 - Deskripsi: Mendefinisikan fungsi matematika yang akan dicari akarnya, yaitu
-  ![image](https://github.com/user-attachments/assets/9f60a8e0-3e21-4420-8fef-28da9d97abea)
+![image](https://github.com/user-attachments/assets/9f60a8e0-3e21-4420-8fef-28da9d97abea)
 - Kegunaan: Digunakan untuk mengevaluasi nilai fungsi pada titik tertentu, baik untuk iterasi maupun plotting.
 
 ### 2. Fungsi main()
@@ -42,7 +42,7 @@ do {
 ```
 
 - Deskripsi: Melakukan iterasi dengan rumus Metode Regula Falsi:
-  ![image](https://github.com/user-attachments/assets/b6b4127c-6501-463a-a9aa-4cd0f2d175f7)
+![image](https://github.com/user-attachments/assets/b6b4127c-6501-463a-a9aa-4cd0f2d175f7)
 - Kondisi berhenti: Ketika ∣f(xr)∣<ϵ∣f(xr​)∣<ϵ atau iterasi mencapai batas maksimum (MAX_ITER).
 
 ### 4. Output Iterasi ke File
@@ -196,7 +196,8 @@ int main() {
 }
 ```
 
-- Menampilkan hasil integrasi dan memberi referensi hasil yang benar : ![image](https://github.com/user-attachments/assets/d31b556c-43b7-4718-bb2d-b41ccdaad7b4)
+- Menampilkan hasil integrasi dan memberi referensi hasil yang benar :
+![image](https://github.com/user-attachments/assets/d31b556c-43b7-4718-bb2d-b41ccdaad7b4)
 
 
 
